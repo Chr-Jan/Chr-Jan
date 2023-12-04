@@ -9,7 +9,7 @@ I'm Christroffer, passionate about learning coding. Welcome to my corner of the 
 
 ## 💻 Technologies & Tools
 
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-%2314354C.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
