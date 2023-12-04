@@ -5,12 +5,12 @@ I'm Christroffer, in learning's maze.
 Welcome to my corner, where bugs are friends,  
 In this universe, the coding journey never ends! 🚀
 
-## 🚀 Highlights
+## 💡 Highlights
 
 - 🔭 🌌 Delving into the mysteries of C# and the cosmos of Google Cloud.
 - 🎲 Embracing the realms of board games, movies, and the enchantment of code.
 
-## 💻 Technologies & Tools
+## 🧰 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&logoWidth=40)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=40)
@@ -25,7 +25,7 @@ In this universe, the coding journey never ends! 🚀
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%23F7C547.svg?style=for-the-badge&logo=home-assistant&logoColor=white&logoWidth=40)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
 
-## 🌐 Connect with Me
+## 📈 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChristofferJansson-blue)](https://www.linkedin.com/in/christoffer-jansson-data/)
 
@@ -33,6 +33,6 @@ In this universe, the coding journey never ends! 🚀
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chr-Jan&show_icons=true&hide=contribs,prs&theme=radical)
 
-## 🎧 Now Playing
+## 🎶 Now Playing
 
 [![My Coding Playlist](https://img.shields.io/badge/Spotify-My%20Coding%20Playlist-green?logo=spotify)](https://open.spotify.com/playlist/5hh4mtekEJnKxU6gTyDoMR?si=6a3677c50c8b4207)
