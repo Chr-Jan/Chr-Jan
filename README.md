@@ -36,7 +36,7 @@ In this universe, the coding journey never ends! 🚀
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-Jan&hide=javascript,css,scss,html&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-Jan&layout=compact&theme=radical)
 
 
 ## 🎶 Now Playing
