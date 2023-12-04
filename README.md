@@ -21,7 +21,7 @@ In this universe, the coding journey never ends! 🚀
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=40)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&logoWidth=40)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white&logoWidth=40)
-![Notepad++](https://img.shields.io/badge/Notepad++-%2300599C.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white&logoWidth=40&logoHeights=40)
+![Notepad++](https://img.shields.io/badge/Notepad++-%2300599C.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white&logoWidth=40&logoHeights=60)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%23F7C547.svg?style=for-the-badge&logo=home-assistant&logoColor=white&logoWidth=40)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
 
