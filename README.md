@@ -1,8 +1,8 @@
 # In the Abyssal Murmurs: Salutations from Beyond 🐙👋
 
-In the GitHub galaxy, where code plays,
-I'm Christroffer, in learning's maze.
-Welcome to my corner, where bugs are friends,
+In the GitHub galaxy, where code plays,  
+I'm Christroffer, in learning's maze.  
+Welcome to my corner, where bugs are friends,  
 In this universe, the coding journey never ends! 🚀
 
 ## 🚀 Highlights
