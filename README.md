@@ -4,8 +4,8 @@ I'm Christroffer, passionate about learning coding. Welcome to my corner of the 
 
 ## 🚀 Quick Highlights
 
-- 🔭 I’m currently working on getting familiar with C# and Google Cloud.
-- 🌱 I’m currently learning board games, movies and coding.
+- 🔭 I’m currently working on getting familiar with **C#** and **Google Cloud**.
+- 🌱 I’m currently learning board games, movies, and coding.
 
 ## 💻 Technologies & Tools
 
@@ -33,5 +33,3 @@ I'm Christroffer, passionate about learning coding. Welcome to my corner of the 
 ## 🎧 Now Playing
 
 [![My Coding Playlist](https://img.shields.io/badge/Spotify-My%20Coding%20Playlist-green?logo=spotify)](https://open.spotify.com/playlist/5hh4mtekEJnKxU6gTyDoMR?si=6a3677c50c8b4207)
-
-Happy coding! ✨
