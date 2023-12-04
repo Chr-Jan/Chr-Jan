@@ -34,7 +34,9 @@ In this universe, the coding journey never ends! 🚀
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chr-Jan&show_icons=true&hide=contribs,prs&theme=radical)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-Jan&hide=javascript,css,scss,html&theme=tokyonight)
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-Jan&hide=javascript,css,scss,html&layout=compact&theme=radical)
 
 
 ## 🎶 Now Playing
