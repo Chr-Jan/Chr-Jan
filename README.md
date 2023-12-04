@@ -1,11 +1,14 @@
-# Hello, World! 👋
+# In the Abyssal Murmurs: Salutations from Beyond 🐙👋
 
-I'm Christroffer, passionate about learning coding. Welcome to my corner of the GitHub universe! 🚀
+In the GitHub galaxy, where code plays,
+I'm Christroffer, in learning's maze.
+Welcome to my corner, where bugs are friends,
+In this universe, the coding journey never ends! 🚀
 
-## 🚀 Quick Highlights
+## 🚀 Highlights
 
-- 🔭 I’m currently working on getting familiar with **C#** and **Google Cloud**.
-- 🌱 I’m currently learning board games, movies, and coding.
+- 🔭 🌌 Delving into the mysteries of C# and the cosmos of Google Cloud.
+-  🎲 Embracing the realms of board games, movies, and the enchantment of code.
 
 ## 💻 Technologies & Tools
 
