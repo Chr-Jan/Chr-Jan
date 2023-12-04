@@ -35,7 +35,7 @@ In this universe, the coding journey never ends! 🚀
 
 ## 💻 Most Used Language
 
-![Top Language](https://img.shields.io/github/languages/top/Chr-Jan/your-repository-name?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/Chr-Jan/Chr-Jan?style=for-the-badge)
 
 
 ## 🎶 Now Playing
