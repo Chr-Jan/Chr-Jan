@@ -33,6 +33,11 @@ In this universe, the coding journey never ends! 🚀
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chr-Jan&show_icons=true&hide=contribs,prs&theme=radical)
 
+## 💻 Most Used Language
+
+![Top Language](https://img.shields.io/github/languages/top/Chr-Jan/your-repository-name?style=for-the-badge)
+
+
 ## 🎶 Now Playing
 
 [![My Coding Playlist](https://img.shields.io/badge/Spotify-My%20Coding%20Playlist-green?logo=spotify)](https://open.spotify.com/playlist/5hh4mtekEJnKxU6gTyDoMR?si=6a3677c50c8b4207)
