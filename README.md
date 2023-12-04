@@ -23,6 +23,6 @@ I'm Christroffer, passionate about learning coding. Welcome to my corner of the 
 
 ## 🎧 Now Playing
 
-[![Spotify](https://spotify-now-playing-cyan.vercel.app/api/spotify)](https://open.spotify.com/user/3122l2wzjqs2nrhrmld7bqdx32qu?si=ffe208b9b536496b)
+[![My Coding Playlist](https://img.shields.io/badge/Spotify-My%20Coding%20Playlist-green?logo=spotify)](https://open.spotify.com/playlist/5hh4mtekEJnKxU6gTyDoMR?si=6a3677c50c8b4207)
 
 Happy coding! ✨
