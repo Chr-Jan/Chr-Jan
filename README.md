@@ -25,6 +25,9 @@ In this universe, the coding journey never ends! 🚀
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%23F7C547.svg?style=for-the-badge&logo=home-assistant&logoColor=white&logoWidth=40)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white&logoWidth=40)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
+
 
 ## 📈 Connect with Me
 
