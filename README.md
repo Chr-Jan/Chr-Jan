@@ -18,7 +18,7 @@ In this universe, the coding journey never ends! 🚀
 - 📜 Scribing code with Notepad++, where every keystroke is a brush in the painting of the unknown.
 - 🏴‍☠️ Navigating the treacherous waters of Git, steering through the commits and branches of our shared voyage.
 - ☁️ Exploring the ethereal heights of Microsoft Azure, where virtual realms merge and thrive.
-- 🌌 Venturing through the eldritch expanse of Google Cloud, where cosmic horrors lurk amidst the swirling mists of data and computation.
+- 🌌 Venturing through the eldritch expanse of Google Cloud, where cosmic horrors lurk.
 - 💻 Whispering commands to the ancient and powerful Linux, a symphony of terminal incantations.
 
 
