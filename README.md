@@ -45,4 +45,6 @@ In this universe, the coding journey never ends! 🚀
 
 ## 🎶 Now Playing
 
-[![My Coding Playlist target= blank](https://img.shields.io/badge/Spotify-My%20Coding%20Playlist-green?logo=spotify)](https://open.spotify.com/playlist/5hh4mtekEJnKxU6gTyDoMR?si=6a3677c50c8b4207)
+<a href="https://open.spotify.com/playlist/5hh4mtekEJnKxU6gTyDoMR?si=6a3677c50c8b4207" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-My%20Coding%20Playlist-green?logo=spotify" alt="My Coding Playlist">
+</a>
