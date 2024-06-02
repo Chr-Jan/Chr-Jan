@@ -8,7 +8,17 @@ In this universe, the coding journey never ends! 🚀
 ## 💡 Highlights
 
 - 🔭 🌌 Delving into the mysteries of C# and the cosmos of Google Cloud.
-- 🎲 Embracing the realms of board games, movies, and the enchantment of code.
+- 🧩 Solving the enigmatic puzzles of SQL, unraveling the secrets of databases.
+- 🌐 Weaving webs with Blazor and HTML, crafting interfaces that echo through the digital abyss.
+- 🛠️ Summoning the power of Docker, binding the ephemeral spirits of containers.
+- 🧙‍♂️ Conjuring automation spells with ESPHome and Home Assistant, bringing the arcane arts of IoT to life.
+- 📜 Scribing code with Notepad++, where every keystroke is a brush in the painting of the unknown.
+- 🏴‍☠️ Navigating the treacherous waters of Git, steering through the commits and branches of our shared voyage.
+- ☁️ Exploring the ethereal heights of Microsoft Azure, where virtual realms merge and thrive.
+- 💻 Whispering commands to the ancient and powerful Linux, a symphony of terminal incantations.
+- 🌀 Embracing the eldritch potential of Kotlin, a language from the void, elegant and powerful.
+- 📜 Enchanting with CSS, styling the web with mystic cascades and visual sorcery.
+
 
 ## 🧰 Technologies & Tools
 
