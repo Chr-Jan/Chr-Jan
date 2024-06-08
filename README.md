@@ -25,7 +25,7 @@ In this universe, the coding journey never ends! 🚀
 
 ## 🧰 Technologies & Tools
 
-### Programming Languages
+### 🖥️ Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&logoWidth=40)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
@@ -34,22 +34,21 @@ In this universe, the coding journey never ends! 🚀
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
 
-### Frameworks & Libraries
+### 📚 Frameworks & Libraries
 
 ![Blazor](https://img.shields.io/badge/Blazor-%2314354C.svg?style=for-the-badge&logo=blazor&logoColor=white&logoWidth=40)
 ![ESPHome](https://img.shields.io/badge/ESPHome-%2300AFF0.svg?style=for-the-badge&logo=esphome&logoColor=white&logoWidth=40)
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=40)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=40)
-
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&logoWidth=40)
 ![Notepad++](https://img.shields.io/badge/Notepad++-%2300599C.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white&logoWidth=40)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%23F7C547.svg?style=for-the-badge&logo=home-assistant&logoColor=white&logoWidth=40)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=40)
 
-### Cloud Services
+### ☁️ Cloud Services
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=40)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white&logoWidth=40)
