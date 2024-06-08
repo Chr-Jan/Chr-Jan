@@ -11,6 +11,7 @@ In this universe, the coding journey never ends! 🚀
 - 🕯️ Peering into the unfathomable depths of C#, delving into mysteries that twist the very fabric of reality.
 - 🧩 Solving the enigmatic puzzles of SQL, unraveling the secrets of databases.
 - 🔭 Delving into the mysteries of C# and the cosmos of Google Cloud.
+- 🐍 Harnessing the arcane power of Python, scripting spells that weave logic and magic.
 - 📜 Enchanting with CSS, styling the web with mystic cascades and visual sorcery.
 - 🌐 Weaving webs with Blazor and HTML, crafting interfaces that echo through the digital abyss.
 - 🛠️ Summoning the power of Docker, binding the ephemeral spirits of containers.
@@ -25,6 +26,7 @@ In this universe, the coding journey never ends! 🚀
 ## 🧰 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&logoWidth=40)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=40)
 ![Blazor](https://img.shields.io/badge/Blazor-%2314354C.svg?style=for-the-badge&logo=blazor&logoColor=white&logoWidth=40)
 ![ESPHome](https://img.shields.io/badge/ESPHome-%2300AFF0.svg?style=for-the-badge&logo=esphome&logoColor=white&logoWidth=40)
