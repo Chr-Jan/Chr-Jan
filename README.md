@@ -38,7 +38,7 @@ In this universe, the coding journey never ends! 🚀
 
 ![Blazor](https://img.shields.io/badge/Blazor-%2314354C.svg?style=for-the-badge&logo=blazor&logoColor=white&logoWidth=40)
 ![ESPHome](https://img.shields.io/badge/ESPHome-%2300AFF0.svg?style=for-the-badge&logo=esphome&logoColor=white&logoWidth=40)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white&logoWidth=40)
+![Flask](https://img.shields.io/badge/Flask-%2300D4FF.svg?style=for-the-badge&logo=flask&logoColor=white&logoWidth=40)
 
 
 ### 🛠️ Tools & Platforms
