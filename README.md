@@ -45,6 +45,7 @@ In this universe, the coding journey never ends! 🚀
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=40)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&logoWidth=40)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white&logoWidth=40)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&logoWidth=40)
 ![Notepad++](https://img.shields.io/badge/Notepad++-%2300599C.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white&logoWidth=40)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%23F7C547.svg?style=for-the-badge&logo=home-assistant&logoColor=white&logoWidth=40)
