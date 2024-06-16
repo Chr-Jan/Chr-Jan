@@ -10,7 +10,7 @@ In this universe, the coding journey never ends! 🚀
 - 🌀 Embracing Kotlin, a language from the void, elegant and powerful.
 - 🕯️ Delving into C#, twisting the very fabric of reality.
 - 🧩 Solving SQL's enigmatic puzzles, unlocking database secrets.
-- 🔭 Exploring C# and the cosmos of Google Cloud.
+- 🔭 Exploring the cosmos of Google Cloud.
 - 🐍 Wielding Python, scripting spells that weave logic and magic.
 - 📜 Enchanting with CSS, styling the web with visual sorcery.
 - 🌐 Crafting with Blazor and HTML, echoing through the digital abyss.
