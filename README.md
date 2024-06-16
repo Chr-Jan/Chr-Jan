@@ -7,21 +7,21 @@ In this universe, the coding journey never ends! 🚀
 
 ## 💡 Highlights
 
-- 🌀 Embracing the eldritch potential of Kotlin, a language from the void, elegant and powerful.
-- 🕯️ Peering into the unfathomable depths of C#, delving into mysteries that twist the very fabric of reality.
-- 🧩 Solving the enigmatic puzzles of SQL, unraveling the secrets of databases.
-- 🔭 Delving into the mysteries of C# and the cosmos of Google Cloud.
-- 🐍 Harnessing the arcane power of Python, scripting spells that weave logic and magic.
-- 📜 Enchanting with CSS, styling the web with mystic cascades and visual sorcery.
-- 🌐 Weaving webs with Blazor and HTML, crafting interfaces that echo through the digital abyss.
-- 🛠️ Summoning the power of Docker, binding the ephemeral spirits of containers.
-- 🧙‍♂️ Conjuring automation spells with ESPHome and Home Assistant, bringing the arcane arts of IoT to life.
-- 📜 Scribing code with Notepad++, where every keystroke is a brush in the painting of the unknown.
-- 🏴‍☠️ Navigating the treacherous waters of Git, steering through the commits and branches of our shared voyage.
-- ☁️ Exploring the ethereal heights of Microsoft Azure, where virtual realms merge and thrive.
-- 🌌 Venturing through the eldritch expanse of Google Cloud, where cosmic horrors lurk.
-- 💻 Whispering commands to the ancient and powerful Linux, a symphony of terminal incantations.
-- ✨ Unleashing the dynamic power of JavaScript, bringing interactivity and magic to the web.
+- 🌀 Embracing Kotlin, a language from the void, elegant and powerful.
+- 🕯️ Delving into C#, twisting the very fabric of reality.
+- 🧩 Solving SQL's enigmatic puzzles, unlocking database secrets.
+- 🔭 Exploring C# and the cosmos of Google Cloud.
+- 🐍 Wielding Python, scripting spells that weave logic and magic.
+- 📜 Enchanting with CSS, styling the web with visual sorcery.
+- 🌐 Crafting with Blazor and HTML, echoing through the digital abyss.
+- 🛠️ Summoning Docker, binding ephemeral spirits of containers.
+- 🧙‍♂️ Conjuring automation with ESPHome and Home Assistant.
+- 📜 Scribing code with Notepad++, painting the unknown.
+- 🏴‍☠️ Navigating Git, steering through commits and branches.
+- ☁️ Exploring Microsoft Azure, merging virtual realms.
+- 🌌 Venturing through Google Cloud, where cosmic horrors lurk.
+- 💻 Whispering commands to Linux, a symphony of terminal incantations.
+- ✨ Unleashing JavaScript, bringing interactivity and magic to the web.
 
 
 ## 🧰 Technologies & Tools
