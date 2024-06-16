@@ -21,6 +21,7 @@ In this universe, the coding journey never ends! 🚀
 - ☁️ Exploring the ethereal heights of Microsoft Azure, where virtual realms merge and thrive.
 - 🌌 Venturing through the eldritch expanse of Google Cloud, where cosmic horrors lurk.
 - 💻 Whispering commands to the ancient and powerful Linux, a symphony of terminal incantations.
+- ✨ Unleashing the dynamic power of JavaScript, bringing interactivity and magic to the web.
 
 
 ## 🧰 Technologies & Tools
