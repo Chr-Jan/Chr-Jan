@@ -22,7 +22,7 @@ In this universe, the coding journey never ends! 🚀
 - 🌌 Venturing through Google Cloud, where cosmic horrors lurk.
 - 💻 Whispering commands to Linux, a symphony of terminal incantations.
 - ✨ Unleashing JavaScript, bringing interactivity and magic to the web.
-
+- 🌟 Harnessing Streamlit for interactive data-driven applications.
 
 ## 🧰 Technologies & Tools
 
@@ -40,8 +40,8 @@ In this universe, the coding journey never ends! 🚀
 
 ![Blazor](https://img.shields.io/badge/Blazor-%2314354C.svg?style=for-the-badge&logo=blazor&logoColor=white&logoWidth=40)
 ![ESPHome](https://img.shields.io/badge/ESPHome-%2300AFF0.svg?style=for-the-badge&logo=esphome&logoColor=white&logoWidth=40)
+![Streamlit](https://img.shields.io/badge/Streamlit-%235F468B.svg?style=for-the-badge&logo=streamlit&logoColor=white&logoWidth=40)
 ![Flask](https://img.shields.io/badge/Flask-%23B22222.svg?style=for-the-badge&logo=flask&logoColor=white&logoWidth=40)
-
 
 ### 🛠️ Tools & Platforms
 
@@ -58,7 +58,6 @@ In this universe, the coding journey never ends! 🚀
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=40)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white&logoWidth=40)
 
-
 ## 📈 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChristofferJansson-blue)](https://www.linkedin.com/in/christoffer-jansson-data/)
@@ -67,11 +66,9 @@ In this universe, the coding journey never ends! 🚀
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chr-Jan&show_icons=true&hide=contribs,prs&theme=radical)
 
-
 ## 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-Jan&layout=compact&theme=radical)
-
 
 ## 🎶 Now Playing
 
