@@ -5,25 +5,6 @@ I'm Christroffer, in learning's maze.
 Welcome to my corner, where bugs are friends,  
 In this universe, the coding journey never ends! 🚀
 
-## 💡 Highlights
-
-- 🌀 Embracing Kotlin, a language from the void, elegant and powerful.
-- 🕯️ Delving into C#, twisting the very fabric of reality.
-- 🧩 Solving SQL's enigmatic puzzles, unlocking database secrets.
-- 🔭 Exploring the cosmos of Google Cloud.
-- 🐍 Wielding Python, scripting spells that weave logic and magic.
-- 📜 Enchanting with CSS, styling the web with visual sorcery.
-- 🌐 Crafting with Blazor and HTML, echoing through the digital abyss.
-- 🛠️ Summoning Docker, binding ephemeral spirits of containers.
-- 🧙‍♂️ Conjuring automation with ESPHome and Home Assistant.
-- 📜 Scribing code with Notepad++, painting the unknown.
-- 🏴‍☠️ Navigating Git, steering through commits and branches.
-- ☁️ Exploring Microsoft Azure, merging virtual realms.
-- 🌌 Venturing through Google Cloud, where cosmic horrors lurk.
-- 💻 Whispering commands to Linux, a symphony of terminal incantations.
-- ✨ Unleashing JavaScript, bringing interactivity and magic to the web.
-- 🌟 Harnessing Streamlit for interactive data-driven applications.
-
 ## 🧰 Technologies & Tools
 
 ### 🖥️ Programming Languages
