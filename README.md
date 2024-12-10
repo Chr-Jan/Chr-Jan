@@ -1,7 +1,7 @@
 # In the Abyssal Murmurs: Salutations from Beyond 🐙👋
 
 In the GitHub galaxy, where code plays,  
-I'm Christroffer, in learning's maze.  
+I'm Christoffer, in learning's maze.  
 Welcome to my corner, where bugs are friends,  
 In this universe, the coding journey never ends! 🚀
 
@@ -50,7 +50,6 @@ In this universe, the coding journey never ends! 🚀
 ## 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-Jan&layout=compact&theme=radical)
-
 
 ## 🎶 Now Playing
 
