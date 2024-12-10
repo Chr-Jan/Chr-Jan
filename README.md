@@ -51,6 +51,7 @@ In this universe, the coding journey never ends! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-Jan&layout=compact&theme=radical)
 
+
 ## 🎶 Now Playing
 
 [![My Coding Playlist](https://img.shields.io/badge/Spotify-My%20Coding%20Playlist-green?logo=spotify)](https://open.spotify.com/playlist/5hh4mtekEJnKxU6gTyDoMR?si=6a3677c50c8b4207 "Open in a new tab (right-click and select 'Open link in new tab')")
